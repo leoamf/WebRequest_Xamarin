@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/bin/Debug/netstandard2.0/WebRequest.deps.json
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/bin/Debug/netstandard2.0/WebRequest.dll
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/bin/Debug/netstandard2.0/WebRequest.pdb
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.csprojAssemblyReference.cache
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.AssemblyInfo.cs
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.dll
+/Users/aluno/Desktop/WebRequest_Xamarin/WebRequest/WebRequest/obj/Debug/netstandard2.0/WebRequest.pdb
